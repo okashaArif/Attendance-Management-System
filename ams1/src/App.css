@@ -1,0 +1,16 @@
+.timetable-grid-container {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    width: 100%; /* Make table cover full width */
+}
+
+.timetable-grid {
+    width: 100%; /* Make table cover full width */
+    border-collapse: collapse; /* Collapse table borders */
+}
+
+.timetable-grid th, .timetable-grid td {
+    border: 1px solid #ddd; /* Add border to table cells */
+    padding: 8px; /* Add padding to table cells */
+    text-align: center; /* Center-align content */
+}
+

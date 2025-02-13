@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    height: 100vh;
+    background-image: url(/src/WhatsApp\ Image\ 2024-04-26\ at\ 6.41.21\ PM.jpeg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.navbar-brand mx-auto {
+    font-weight: bold;
+    position: absolute;
+    height: auto;
+    width: 50px;
+    left: 10px;
+}
